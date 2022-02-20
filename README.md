@@ -1,1 +1,1 @@
-# php-lab9
+An application with which you can add entries, edit and delete
